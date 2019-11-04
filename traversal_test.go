@@ -25,8 +25,8 @@ import (
 
 	. "github.com/smartystreets/goconvey/convey"
 
-	"github.com/northwesternmutual/grammes/query/graph"
-	"github.com/northwesternmutual/grammes/query/traversal"
+	"github.com/melonwool/grammes/query/graph"
+	"github.com/melonwool/grammes/query/traversal"
 )
 
 func TestTraversal(t *testing.T) {

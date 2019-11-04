@@ -23,10 +23,10 @@ package manager
 import (
 	"strings"
 
-	"github.com/northwesternmutual/grammes/query/traversal"
-	"github.com/northwesternmutual/grammes/gremerror"
-	"github.com/northwesternmutual/grammes/logging"
-	"github.com/northwesternmutual/grammes/query"
+	"github.com/melonwool/grammes/query/traversal"
+	"github.com/melonwool/grammes/gremerror"
+	"github.com/melonwool/grammes/logging"
+	"github.com/melonwool/grammes/query"
 )
 
 type dropQueryManager struct {

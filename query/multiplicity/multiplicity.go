@@ -36,8 +36,8 @@ This object implements the Parameter interfaces used by graph traversals.
 package multiplicity
 
 import (
-	"github.com/northwesternmutual/grammes/query/cardinality"
-	"github.com/northwesternmutual/grammes/query/direction"
+	"github.com/melonwool/grammes/query/cardinality"
+	"github.com/melonwool/grammes/query/direction"
 )
 
 // Titan:

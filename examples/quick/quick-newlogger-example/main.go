@@ -23,10 +23,10 @@ package main
 import (
 	"flag"
 
-	"github.com/northwesternmutual/grammes/logging"
+	"github.com/melonwool/grammes/logging"
 
-	"github.com/northwesternmutual/grammes/examples/exampleutil"
-	"github.com/northwesternmutual/grammes/quick"
+	"github.com/melonwool/grammes/examples/exampleutil"
+	"github.com/melonwool/grammes/quick"
 
 	"go.uber.org/zap"
 )
