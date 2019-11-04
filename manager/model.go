@@ -42,7 +42,7 @@ var (
 
 // unmarshalID will simply take a raw response and
 // unmarshal it into an ID.
-func unmarshalID(data [][]byte) (id int64, err error) {
+func unmarshalID(data [][]byte) (id string, err error) {
 	var resp model.VertexList
 
 	for _, res := range data {
